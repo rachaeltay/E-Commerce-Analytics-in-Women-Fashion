@@ -5,7 +5,7 @@ Using dataset from [Kaggle Womens' E-Commerce clothing reviews](https://www.kagg
 
 | Type of Analysis | Purpose |
 | ----------- | ----------- |
-| Sentiment Analysis |  understand customers opinion on any item |
-| Topic Modelling | grasp the broader picture of the customers opinion on any department |
-| Correlation of Terms | get the aggregated opinion of customers on how to improve products |
+| Sentiment Analysis |  Understand customers opinion on any item |
+| Topic Modelling | Grasp the broader picture of the customers opinion on any department |
+| Correlation of Terms | Get the aggregated opinion of customers on how to improve products |
 
